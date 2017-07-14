@@ -2,7 +2,7 @@
 
 This is a temporary version of a startup listener to make the plugin `startupRuleEngine` work with Pentaho 7+.
 
-The jar generated here should to replace the file `cpk-pentaho5-session-listener-TRUNK-SNAPSHOT.jar` packed with the plugin.
+The jar generated here should replace the file `cpk-pentaho5-session-listener-TRUNK-SNAPSHOT.jar` packed with the plugin.
 
 # Build
 
